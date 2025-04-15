@@ -14,4 +14,6 @@ C:\Users\Mark June Almojuela\source\repos\MMC\MMC\MMC\obj\Debug\net8.0-windows\r
 C:\Users\Mark June Almojuela\source\repos\MMC\MMC\MMC\obj\Debug\net8.0-windows\MMC.pdb
 C:\Users\Mark June Almojuela\source\repos\MMC\MMC\MMC\obj\Debug\net8.0-windows\MMC.genruntimeconfig.cache
 C:\Users\Mark June Almojuela\source\repos\MMC\MMC\MMC\obj\Debug\net8.0-windows\ref\MMC.dll
-C:\Users\Mark June Almojuela\source\repos\MMC\MMC\MMC\obj\Debug\net8.0-windows\MMC.Dashboard.resources
+C:\Users\Mark June Almojuela\source\repos\MMC\MMC\MMC\obj\Debug\net8.0-windows\MMC.sourcelink.json
+C:\Users\Mark June Almojuela\source\repos\MMC\MMC\MMC\obj\Debug\net8.0-windows\MMC.Main.resources
+C:\Users\Mark June Almojuela\source\repos\MMC\MMC\MMC\obj\Debug\net8.0-windows\MMC.Properties.Resources.resources
